@@ -228,6 +228,7 @@ Note:
 - [whoc - A container image that extracts the underlying container runtime](https://github.com/twistlock/whoc)
 - [kdigger - A context discovery tool for Kubernetes penetration testing](https://github.com/quarkslab/kdigger)
     - [Introduction to kdigger](https://blog.quarkslab.com/kdigger-a-context-discovery-tool-for-kubernetes.html)
+- [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
 
 ## 2 Defensive
 
